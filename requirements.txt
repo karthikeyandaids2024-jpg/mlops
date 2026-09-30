@@ -1,0 +1,4 @@
+# No packages required to run server.py.
+# These packages are needed ONLY to retrain models with python ml/train.py:
+numpy>=1.24,<3
+scikit-learn==1.8.0
